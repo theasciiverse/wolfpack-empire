@@ -1,4 +1,4 @@
-{"version":3,"term":{"cols":100,"rows":30,"type":"xterm-256color","version":"tmux 3.6"},"timestamp":1791836929,"idle_time_limit":2.0,"command":"/tmp/rec -s 127.0.0.1:16665","title":"Wolfpack Empire","env":{"COLORTERM":"truecolor","TERM":"xterm-256color","LANG":"C.UTF-8"}}
+{"version":3,"term":{"cols":100,"rows":30,"type":"xterm-256color","version":"tmux 3.6"},"timestamp":1791836929,"idle_time_limit":2.0,"title":"Wolfpack Empire","env":{"COLORTERM":"truecolor","TERM":"xterm-256color","LANG":"C.UTF-8"}}
 [0.002, "o", "Country name? "]
 [1.984, "o", "2"]
 [0.377, "o", "\r\n"]
